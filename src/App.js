@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={newLogo} className="App-logo" alt="logo" />
         <p>
-          {/* Do not Edit <code>src/App.js</code> and save to reload. */}
+          Do not Edit <code>src/App.js</code> and save to reload.
           Happy New Year 2022
         </p>
         <a
